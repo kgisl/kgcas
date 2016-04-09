@@ -3,7 +3,7 @@
 
 #### Planning
 
-- [chief guest options](chief.md) 
+- [chief guest options](/chief) 
 - Annual report contents 
 - delegation of responsibilities 
 
